@@ -11,6 +11,7 @@ html(lang="en")
 		- var inComment = false
 		- var isComment = new RegExp(/<!--/g)
 		- var endComment = new RegExp(/-->/g)
+		- var empty = new RegExp(/\S/)
 		- each val in slideContent 
 			- var isImg = new RegExp(/jpg|jpeg|png|gif/g)
 			- var hasTweet = new RegExp(/\[\[[^]*\]\]/g)
@@ -22,6 +23,8 @@ html(lang="en")
 				- inComment = ! endComment.test( val )		
 			else if isComment.test( val )
 				- inComment = true;
+			else if ! empty.test( val )
+				-  
 			else if isImg.test( val )
 				.slide&attributes({ 'data-tweet' : tweetText })
 					img( src=val )
