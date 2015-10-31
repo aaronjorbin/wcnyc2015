@@ -1,69 +1,109 @@
-Lessons From Science Fiction and Fantasy
+Lessons From Science Fiction <em>and</em> Fantasy
 <!--
-	
+	In the summer of 2004, I took a course that changed the way I think about everything.	
 -->
 EN 425
 <!-- 
 	Ideas from Different Fields are often used to inspire and grow another. Much of the principles of Web Design are a hundred year old ideas from Print Design.  Much of Computer Science is the application of 1000 year old ideas of Mathematics.   
 -->
-Transfering Ideas
+Transferring <em>Ideas</em>
 <!--
 	So I thought it might be fun to look at some other fields, specifically one that I love, and see if there are ideas and lessons we could learn from there an apply to making websites. 
 --> 
-Websites steal
-Mathamatcis
+Websites <em>Steal</em>
+Mathematics
 Graphic Design
 Journalism
-Websites are Science Fiction 
-Websites are a Fantasy 
+Websites are <em>Science Fiction</em> 
+Websites are a <em>Fantasy</em> 
 Dresden Files
 In the phone book under Wizard
-Norse&nbsp;Mythology<br />Celtic&nsbp;Mythology<br />Christian&nsbp;Mythology
+Norse&nbsp;Mythology<br />Celtic&nbsp;Mythology<br />Christian&nbsp;Mythology
 <!--
 	The Dresden Files teach us that it is ok to take others theories and modify them for our needs	
 --> 
-WordPress === Star Trek Universe
+WordPress<br/><em>===</em><br/>Star&nbsp;Trek&nbsp;Universe
 <!--
-	The WordPress Core Team is the United Federation of Planets.  It's many unique Individuals, united by a common mission.  Whereas The United Federation of Planets aimed to make the entire universe a better place for everyone, WordPress aims to make the Web a better place for everone.  The UFP charter states: 
+	The WordPress Core Team is the United Federation of Planets.  It's many unique Individuals, united by a common mission.  Whereas The United Federation of Planets aimed to make the entire universe a better place for everyone, WordPress aims to make the Web a better place for everyone.
+-->
+United Federation of Planets
+<!--
+	The UFP charter states: 
 
 	We the lifeforms of the United Federation of Planets determined to save succeeding generations from the scourge of war, and to reaffirm faith in the fundamental rights of sentient beings, in the dignity and worth of all lifeforms, in the equal rights of members of planetary systems large and small, and to establish conditions under which justice and respect for the obligations arising from treaties and other sources of interstellar law can be maintained, and to promote social progress and better standards of living on all worlds...
 --> 
-United Federation of Planets
 WordPress Bill Of Rights
 <!--
 	Resistance is futile, yet they never succeed. In many ways WordPress's version of the Borg is the propritary CMS world.  These CMSs lock you in. You don't own your data. It's not a community working together to create something, it is one someone's idea of how you should create content. 
-
 -->
 BORG
 <!--
-	There are other lifeforms out there as well.  The 
---> 
-Ferangi
-<!--
+	There are other lifeforms out there as well.  In the Star Trek Universe, there is a species called the ferangi that live off of rules of acquision. 
+	Rule of Aquision #59: Free advice is seldom cheap.
+	Rule of Aquision #109: Dignity and an empty sack is worth the sack.
 	
+	The Ferengi are almost soley after profit. They aren't interested in actually helping people. In the Web, we have a similar group: SEO Consultants. SEO consultants rant and rave about the rules, but at the end of the day most of them are interested in there own profits.  If you are really interested in SEO I will give you the two pieces of advice you need: If it makes your users happy, it will make google happy and Write good content that people want to read. 
 --> 
+Ferengi
+<!--
+	The Klingons are a Honor bound species known for it's traditions.  
+
+	Suvlu'taHvIS yapbe' HoS neH
+	Brute strength is not the most important asset in a fight.
+
+	Speed is important
+	Ask your host "What version of PHP am I using today and how do I get on PHP7?"
+	PHP7 comes out later this Month.  WordPress is ready to support it. 
+	2x faster
+	2x generation of the page
+--> 
+Klingons
+Piloting a starship
+Enterprise Vs. Millennium Falcon 
+<!--
+	Piloting a Starship and Running a Website are similar
+
+	Big Team vs. Small Team 
+
+	We need to be Scrapy		
+	Pilot is the Mechanic is the Owner
+	Designer is the Developer is the Writer
+	Hundreds of roles
+	Everyone needs to fill multiple roles
+-->
 Do Or Do Not. There is no Try
 <!--
- Fuck That Cliche.
- Search your feelings.  You know it to be True
+	Search your feelings.  You know it to be True
 --> 
 Starship Troopers
-Citizinship
-<em>Citizinship</em> in an open source world
+<!--
+	Robert A. Heinlein
+-->
+Citizenship
+<em>Citizenship</em> in an open source world
 Responsibilities
 If You see Something, Say Something
 Report Bugs
 Write Reviews
 Doctor Who
 Time and Space
+<!--
+	EXTERMINATE
+	Daleks want to kill the doctor
+	Daleks haven't succeeded
+	Too Narrow of a focus leads to failure. We need to think bigger.
+	Naming your company "Woo Experts" locks you into working on Woo Commerce
+	Naming yourself "The ood" you can create a brand you can use anywhere
+-->
+Daleks
 <!-- 
 	9th Doctor upon meeting Rose
 	You could stay here, fill your life with work and food and sleep or you could go...anywhere
 -->
 Regenerate your style
-Bowties Are Cool
+<em>Bowties</em> Are Cool
 <!--
- Yoda to close it all
+	Yoda to close it all
 -->
 Named must your fear be before banish it you can.
 Confront your Fears
@@ -72,4 +112,3 @@ This is my 25th WordCamp
 First User Talk
 Named must your fear be before banish it you can.
 Aaron&nbsp;Jorbin<br/><br />aaron.jorb.in<br/>@aaronjorbin<br/>
-
